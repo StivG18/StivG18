@@ -1,4 +1,4 @@
-![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/header.png)
+![Stiven Banner](https://github.com/StivG18/StivG18/blob/main/img/banner_github.png)
 
 ### Hi there, I'm Stiven Guerrero👋
 
