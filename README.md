@@ -2,7 +2,7 @@
 
 <h1>
   Hi there, I'm Stiven Guerrero 
-  <img src="./img/Hand%20Wave.gif" width="40"/>
+  <img src="./img/hand_wave.gif" width="40"/>
 </h1>
 
 
