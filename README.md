@@ -12,10 +12,9 @@
 
 
 <p align="center"><img align="center" src="./img/cat.gif" width='200px'></p>
-<!--
-**StivG18/StivG18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🇨🇴 Boyacá, Colombia  
+
+  
 🎓 Estudiante de **Ingeniería Informática** (último semestre)  
 💻 **Desarrollador Full Stack Junior**  
 🚀 Buscando **práctica profesional o posición junior**
@@ -119,6 +118,12 @@ Me caracterizo por mi **aprendizaje rápido**, pensamiento analítico y capacida
 
 - 📧 Email: guerreroariasbrayanstiven@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/stiven-guerrero-developer](https://www.linkedin.com/in/stiven-guerrero-developer)  
+
+
+<!--
+**StivG18/StivG18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--> 
+
 
 
 
