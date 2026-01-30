@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/StivG18/StivG18/main/img/banner_github.png"
        alt="Stiven Banner"
-       width="900"/>
+       width="1200"/>
 </p>
 
 
