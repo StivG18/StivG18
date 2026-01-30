@@ -1,9 +1,10 @@
 ![StivenBanner](https://github.com/StivG18/StivG18/blob/main/img/banner_github.png)
 <p align="center">
-  <img src="./img/banner_github.png" 
-       alt="Stiven Guerrero Banner"
+  <img src="https://raw.githubusercontent.com/StivG18/StivG18/main/img/banner_github.png"
+       alt="Stiven Banner"
        width="900"/>
 </p>
+
 
 <h1>
   Hi there, I'm Stiven Guerrero 
