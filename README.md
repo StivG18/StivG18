@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=./img/banner_github.png"
+  <img src="./img/banner_github.png"
        alt="Stiven Banner"
        width="1200"/>
 </p>
