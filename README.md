@@ -1,12 +1,9 @@
-![Stiven Banner](https://github.com/StivG18/StivG18/blob/main/img/banner_github.png)
+![StivenBanner](https://github.com/StivG18/StivG18/blob/main/img/banner_github.png)
 
-### Hi there, I'm Stiven Guerrero👋
-<img alt="Night Coding" src="./img/Hand%20Wave.gif" width='40' align="right"/><h2 align="left">Hi there, I'm Stiven Guerrero</h2>
-
-<h2>
+<h1>
   Hi there, I'm Stiven Guerrero 
-  <img src="./img/Hand%20Wave.gif" width="35"/>
-</h2>
+  <img src="./img/Hand%20Wave.gif" width="40"/>
+</h1>
 
 
 <p align="center"><img align="center" src="./img/cat.gif" width='200px'></p>
