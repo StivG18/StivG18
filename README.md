@@ -4,11 +4,12 @@
        width="1200"/>
 </p>
 
+
 <h1>
   Hi there, I'm Stiven Guerrero 
   <img src="./img/hand_wave.gif" width="40"/>
 </h1>
-
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <picture> <img align="right" src="./img/cat.gif" width = 180px></picture>
 <br><br>
@@ -41,39 +42,22 @@ Me caracterizo por mi **aprendizaje rápido**, pensamiento analítico y capacida
 [![My Skills](https://skillicons.dev/icons?i=mongodb,dynamodb)](https://skillicons.dev)
 
 ### 🔹 Otras Herramientas
-[![My Skills](https://skillicons.dev/icons?i=gradle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gradle&theme=light)](https://skillicons.dev)
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width=45>
 [![My Skills](https://skillicons.dev/icons?i=flask,github)](https://skillicons.dev)
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=47>
 [![My Skills](https://skillicons.dev/icons?i=npm,vscode,visualstudio,eclipse,idea,wordpress)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=flutter,vim,bash,linux)](https://skillicons.dev)
-<img src="https://github.com/devicons/devicon/blob/master/icons/pypi/pypi-original.svg" width=45>
-<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width=45> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecolab/googlecolab-original.svg" width=45> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width=45>
----
-
-
-
-
-
-## 🌱 Actualmente aprendiendo | Currently Learning
-- Spring Boot avanzado  
-- Arquitecturas de software  
-- Mejores prácticas backend  
-- Data & fundamentos de IA
+[![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio,figma,blender,powershell,vim,bash,linux)](https://skillicons.dev)
+<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width=45>
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/googlecolab/googlecolab-original.svg" width=45> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width=45> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width=45>
+-->
 
 ---
-
-## 📫 Contacto | Contact
-
-- 📧 Email: guerreroariasbrayanstiven@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/stiven-guerrero-developer](https://www.linkedin.com/in/stiven-guerrero-developer)  
-
-
-<!--
-**StivG18/StivG18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---> 
-
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StivG18&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StivG18&theme=github_dark"/>
+</p>
 <!--
 ## visitantes
 <p align="center">
@@ -82,6 +66,40 @@ Me caracterizo por mi **aprendizaje rápido**, pensamiento analítico y capacida
 </p>
 --> 
 
+---
 
+## 📫  Contact
+
+<!--
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+ <a style="margin-left: 10px;" target="_blank" href="https://www.dzenis.tech" >
+   <img src="https://img.icons8.com/?size=50&id=ipBLdOAQ6sRn&format=png"></a>
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/dzenis-h//">
+		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/dzenis-h">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/8146571/dzenis-h?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+					<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/BiggaHd">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>		
+			
+</p>
+--> 
+
+<!--
+**StivG18/StivG18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--> 
+
+
+
+
+<!--
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs?username=Niko-Cloud&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+alt="adam-pw"
+bg_color=#808080/>
+--> 
 
 
