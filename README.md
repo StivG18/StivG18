@@ -18,8 +18,6 @@
 <br><br><br>
 
 
-
-
 ---
 ## <picture><img src = "./img/about_me.gif" width = 30px></picture> About me
 
@@ -30,41 +28,29 @@ Me caracterizo por mi **aprendizaje rápido**, pensamiento analítico y capacida
 
 ---
 
-## 🛠️ Tecnologías | Tech Stack
+##  Tech Stack
 
 ### 🔹 Lenguajes
-- Java  
-- Python  
-- JavaScript  
-- TypeScript  
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,typescript,c,cs,cpp,html,css)](https://skillicons.dev)
 
-### 🔹 Backend
-- Spring Boot  
-- Programación Orientada a Objetos  
-- Arquitectura MVC  
-- APIs REST (fundamentos)
-
-### 🔹 Frontend
-- HTML  
-- CSS  
-- JavaScript  
-- TypeScript  
-- Interfaces responsivas
 
 ### 🔹 Bases de Datos
-- SQL  
-- MySQL  
-
-### 🔹 Análisis de Datos
-- Pandas  
-- Oracle Analytics (fundamentos)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=light)](https://skillicons.dev)
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width=45>
+[![My Skills](https://skillicons.dev/icons?i=mongodb,dynamodb)](https://skillicons.dev)
 
 ### 🔹 Otras Herramientas
-- Git & GitHub  
-- Fundamentos de Inteligencia Artificial  
-- Flutter (básico)
-
+[![My Skills](https://skillicons.dev/icons?i=gradle)](https://skillicons.dev)
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width=45>
+[![My Skills](https://skillicons.dev/icons?i=flask,github)](https://skillicons.dev)
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=47>
+[![My Skills](https://skillicons.dev/icons?i=npm,vscode,visualstudio,eclipse,idea,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,vim,bash,linux)](https://skillicons.dev)
+<img src="https://github.com/devicons/devicon/blob/master/icons/pypi/pypi-original.svg" width=45>
+<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width=45> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecolab/googlecolab-original.svg" width=45> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width=45>
 ---
+
 
 
 
@@ -85,6 +71,15 @@ Me caracterizo por mi **aprendizaje rápido**, pensamiento analítico y capacida
 
 <!--
 **StivG18/StivG18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--> 
+
+
+<!--
+## visitantes
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FStivG18&label=total-visitors&labelColor=%230d47a1&countColor=%231976d2"/>
+  <img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FStivG18&label=today-visitors&labelColor=%231976d2&countColor=%230d47a1"/>
+</p>
 --> 
 
 
