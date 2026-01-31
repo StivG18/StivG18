@@ -9,7 +9,9 @@
   Hi there, I'm Stiven Guerrero 
   <img src="./img/hand_wave.gif" width="40"/>
 </h1>
+<!--
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+--> 
 
 <picture> <img align="right" src="./img/cat.gif" width = 180px></picture>
 <br><br>
@@ -70,29 +72,28 @@ Me caracterizo por mi **aprendizaje rápido**, pensamiento analítico y capacida
 
 ## 📫  Contact
 
-<!--
-<p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
- <a style="margin-left: 10px;" target="_blank" href="https://www.dzenis.tech" >
-   <img src="https://img.icons8.com/?size=50&id=ipBLdOAQ6sRn&format=png"></a>
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/dzenis-h//">
-		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/dzenis-h">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/8146571/dzenis-h?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-					<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/BiggaHd">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>		
-			
+<p align="center">
+  <a href="TU_WEB_AQUI">
+    <img src="https://img.icons8.com/?size=50&id=ipBLdOAQ6sRn&format=png" width="43"/></a>
+	  &nbsp;
+  <a href="https://www.linkedin.com/in/stiven-guerrero-developer/">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" width="40"/></a>
+  &nbsp;
+  <a href="mailto:guerreroariasbrayanstiven@gmail.com">
+    <img src="https://img.icons8.com/doodle/2x/gmail-new.png" width="40"/></a>
+  &nbsp;
+  <a href="TU_STACKOVERFLOW_AQUI">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" width="40"/></a>
+  &nbsp;
+  <a href="TU_CV_AQUI">
+    <img src="https://img.icons8.com/ultraviolet/2x/resume.png" width="40"/></a>
 </p>
---> 
+
 
 <!--
 **StivG18/StivG18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
-
-
 
 
 <!--
@@ -102,4 +103,4 @@ alt="adam-pw"
 bg_color=#808080/>
 --> 
 
-
+<!----> 
