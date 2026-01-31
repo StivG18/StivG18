@@ -74,7 +74,7 @@ Me caracterizo por mi **aprendizaje rápido**, pensamiento analítico y capacida
 
 
 <p align="center">
-  <a href="TU_WEB_AQUI">
+  <a href="WEB">
     <img src="https://img.icons8.com/?size=50&id=ipBLdOAQ6sRn&format=png" width="43"/></a>
 	  &nbsp;
   <a href="https://www.linkedin.com/in/stiven-guerrero-developer/">
@@ -83,10 +83,10 @@ Me caracterizo por mi **aprendizaje rápido**, pensamiento analítico y capacida
   <a href="mailto:guerreroariasbrayanstiven@gmail.com">
     <img src="https://img.icons8.com/doodle/2x/gmail-new.png" width="40"/></a>
   &nbsp;
-  <a href="TU_STACKOVERFLOW_AQUI">
+  <a href="STACKOVERFLOW">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" width="40"/></a>
   &nbsp;
-  <a href="TU_CV_AQUI">
+  <a href="CV">
     <img src="https://img.icons8.com/ultraviolet/2x/resume.png" width="40"/></a>
 </p>
 
