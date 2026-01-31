@@ -10,16 +10,18 @@
 </h1>
 
 
-<picture> <img align="right" src="./img/cat.gif" width = 200px></picture>
-<br><br> 
+<picture> <img align="right" src="./img/cat.gif" width = 180px></picture>
+<br><br>
 - 🎓 Estudiante de **Ingeniería Informática** (último semestre)  
 - 💻 **Desarrollador Full Stack Junior**  
 - 🚀 Buscando **práctica profesional o posición junior**
 <br><br><br>
 
 
+
+
 ---
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+## <picture><img src = "./img/about_me.gif" width = 30px></picture> About me
 
 Soy estudiante de Ingeniería Informática en fase final de formación y Técnico en Sistemas, con enfoque en **desarrollo de software full stack**.  
 Tengo experiencia académica y práctica desarrollando aplicaciones web usando **Java, Spring Boot, Python, SQL, JavaScript y TypeScript**, aplicando arquitectura MVC, operaciones CRUD y buenas prácticas de programación.
