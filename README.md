@@ -15,40 +15,39 @@
 
 <picture> <img align="right" src="./img/cat.gif" width = 180px></picture>
 <br><br>
-- 🎓 Estudiante de **Ingeniería Informática** (último semestre)  
-- 💻 **Desarrollador Full Stack Junior**  
-- 🚀 Buscando **práctica profesional o posición junior**
+- 🎓 **Computer Engineering** student (final semester)
+- 💻 **Junior Full Stack Developer**  
+- 🚀 Looking for a **professional internship or junior position**
 <br><br><br>
 
 
 ---
 ## <picture><img src = "./img/about_me.gif" width = 30px></picture> About me
 
-Soy estudiante de Ingeniería Informática en fase final de formación y Técnico en Sistemas, con enfoque en **desarrollo de software full stack**.  
-Tengo experiencia académica y práctica desarrollando aplicaciones web usando **Java, Spring Boot, Python, SQL, JavaScript y TypeScript**, aplicando arquitectura MVC, operaciones CRUD y buenas prácticas de programación.
-
-Me caracterizo por mi **aprendizaje rápido**, pensamiento analítico y capacidad para trabajar en equipo. Busco una oportunidad donde pueda **aplicar mis conocimientos, seguir aprendiendo y aportar valor real** al equipo.
+Computer Engineering student in the final stage of my studies (approximately 6 months until graduation), focused on full-stack software development and data analysis.
+I have hands-on academic and practical experience building web applications, working with databases, and applying software development best practices.
+Currently looking for a professional internship or junior developer role where I can continue growing, learning, and contributing to real-world projects.
 
 ---
 
-##  Tech Stack
+## ⚒ Tech Stack
 
-### 🔹 Lenguajes
+### 🔹 Languages
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=python,js,typescript,c,cs,cpp,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,typescript,html,css,cs)](https://skillicons.dev)
 
 
-### 🔹 Bases de Datos
+### 🔹 Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=light)](https://skillicons.dev)
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width=45>
-[![My Skills](https://skillicons.dev/icons?i=mongodb,dynamodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
-### 🔹 Otras Herramientas
+### 🔹 Other Tools
 [![My Skills](https://skillicons.dev/icons?i=gradle&theme=light)](https://skillicons.dev)
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width=45>
 [![My Skills](https://skillicons.dev/icons?i=flask,github)](https://skillicons.dev)
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=47>
-[![My Skills](https://skillicons.dev/icons?i=npm,vscode,visualstudio,eclipse,idea,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,vscode,visualstudio,eclipse,idea,wordpress)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio,figma,blender,powershell,vim,bash,linux)](https://skillicons.dev)
 <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width=45>
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/googlecolab/googlecolab-original.svg" width=45> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width=45> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width=45>
