@@ -24,7 +24,7 @@
 ---
 ## <picture><img src = "./img/about_me.gif" width = 30px></picture> About me
 
-Computer Engineering student in the final stage of my studies (approximately 6 months until graduation), focused on full-stack software development and data analysis.
+Computer Engineering student in the final stage of my studies, focused on full-stack software development and data analysis.
 I have hands-on academic and practical experience building web applications, working with databases, and applying software development best practices.
 Currently looking for a professional internship or junior developer role where I can continue growing, learning, and contributing to real-world projects.
 
