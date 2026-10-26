@@ -1,12 +1,12 @@
 <p align="center">
   <img src="./img/banner_github.png"
-       alt="Stiven Banner"
+       alt="Banner de Stiven"
        width="1200"/>
 </p>
 
 
 <h1>
-  Hi there, I'm Stiven Guerrero 
+  Hola, soy Stiven Guerrero
   <img src="./img/hand_wave.gif" width="40"/>
 </h1>
 <!--
@@ -15,46 +15,41 @@
 
 <picture> <img align="right" src="./img/cat.gif" width = 180px></picture>
 <br><br>
-- 🎓 **Computer Engineering** student (final semester)
-- 💻 **Junior Full Stack Developer**  
-- 🚀 Looking for a **professional internship or junior position**
+- 🎓 **Ingeniero Informático**
+- 💻 **Desarrollador Full Stack Junior** con enfoque en IA Generativa y gestión del conocimiento
+- 🚀 Desarrollando **[Nexus](https://github.com/StivG18/nexus)**, una plataforma para crear y gobernar asistentes de IA (proyecto personal)
 <br><br><br>
 
 
 ---
-## <picture><img src = "./img/about_me.gif" width = 30px></picture> About me
+## <picture><img src = "./img/about_me.gif" width = 30px></picture> Sobre mí
 
-Computer Engineering student in the final stage of my studies, focused on full-stack software development and data analysis.
-I have hands-on academic and practical experience building web applications, working with databases, and applying software development best practices.
-Currently looking for a professional internship or junior developer role where I can continue growing, learning, and contributing to real-world projects.
+Soy Ingeniero Informático de la Universidad Santo Tomás. Empecé en el desarrollo full stack y hoy mi enfoque principal es la IA generativa: bases de conocimiento, asistentes que responden con fuentes verificables (RAG) y el backend que los sostiene.
+
+Actualmente trabajo con IA y gestión del conocimiento. En paralelo desarrollo [Nexus](https://github.com/StivG18/nexus), una plataforma para que cada área de una organización cree, evalúe y publique sus propios asistentes de IA, con respuestas trazables y sin inventar información.
 
 ---
 
-## ⚒ Tech Stack
+## ⚒ Tecnologías
 
-### 🔹 Languages
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=python,js,typescript,html,css,cs)](https://skillicons.dev)
+### 🔹 Lo que uso actualmente
+[![Mis habilidades](https://skillicons.dev/icons?i=py,fastapi,postgres,docker,githubactions,linux)](https://skillicons.dev) <img src="./img/stack-ia.svg" alt="Claude, OpenAI, pgvector, MCP, SQLAlchemy, Pydantic" height="48"/>
 
+### 🔹 Lenguajes
+[![Mis habilidades](https://skillicons.dev/icons?i=java,py,js,ts,html,css,cs)](https://skillicons.dev)
 
-### 🔹 Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=light)](https://skillicons.dev)
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width=45>
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+### 🔹 Bases de datos
+[![Mis habilidades](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb)](https://skillicons.dev)
 
-### 🔹 Other Tools
-[![My Skills](https://skillicons.dev/icons?i=gradle&theme=light)](https://skillicons.dev)
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width=45>
-[![My Skills](https://skillicons.dev/icons?i=flask,github)](https://skillicons.dev)
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=47>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,vscode,visualstudio,eclipse,idea,wordpress)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio,figma,blender,powershell,vim,bash,linux)](https://skillicons.dev)
-<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width=45>
+### 🔹 Otras herramientas
+[![Mis habilidades](https://skillicons.dev/icons?i=gradle,spring,flask,github,git,angular,nodejs,npm,vscode,visualstudio,eclipse&perline=11)](https://skillicons.dev)
+[![Mis habilidades](https://skillicons.dev/icons?i=idea,wordpress,flutter,androidstudio,figma,blender,powershell,vim,bash,linux)](https://skillicons.dev)
+
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/googlecolab/googlecolab-original.svg" width=45> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width=45> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width=45>
 -->
 
 ---
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de GitHub </b>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StivG18&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StivG18&theme=github_dark"/>
@@ -69,7 +64,7 @@ Currently looking for a professional internship or junior developer role where I
 
 ---
 
-## 📫  Contact
+## 📫  Contacto
 
 
 <p align="center">
