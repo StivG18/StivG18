@@ -16,8 +16,8 @@
 <picture> <img align="right" src="./img/cat.gif" width = 180px></picture>
 <br><br>
 - 🎓 **Ingeniero Informático**
-- 💻 **Desarrollador Full Stack Junior** con enfoque en IA Generativa y gestión del conocimiento
-- 🚀 Desarrollando **[Nexus](https://github.com/StivG18/nexus)**, una plataforma para crear y gobernar asistentes de IA (proyecto personal)
+- 💻 **Desarrollador Full Stack Junior** con enfoque en IA generativa y gestión del conocimiento
+- 🚀 Desarrollando **[Nexus](https://github.com/StivG18/nexus)**, una plataforma para crear y gobernar asistentes de IA
 <br><br><br>
 
 
@@ -26,7 +26,7 @@
 
 Soy Ingeniero Informático de la Universidad Santo Tomás. Empecé en el desarrollo full stack y hoy mi enfoque principal es la IA generativa: bases de conocimiento, asistentes que responden con fuentes verificables (RAG) y el backend que los sostiene.
 
-Actualmente trabajo con IA y gestión del conocimiento. En paralelo desarrollo [Nexus](https://github.com/StivG18/nexus), una plataforma para que cada área de una organización cree, evalúe y publique sus propios asistentes de IA, con respuestas trazables y sin inventar información.
+También desarrollo [Nexus](https://github.com/StivG18/nexus), una plataforma de asistentes de IA donde cada respuesta cita su fuente y ninguna versión se publica sin pasar antes una evaluación automática.
 
 ---
 
@@ -36,14 +36,14 @@ Actualmente trabajo con IA y gestión del conocimiento. En paralelo desarrollo [
 [![Mis habilidades](https://skillicons.dev/icons?i=py,fastapi,postgres,docker,githubactions,linux)](https://skillicons.dev) <img src="./img/stack-ia.svg" alt="Claude, OpenAI, pgvector, MCP, SQLAlchemy, Pydantic" height="48"/>
 
 ### 🔹 Lenguajes
-[![Mis habilidades](https://skillicons.dev/icons?i=java,py,js,ts,html,css,cs)](https://skillicons.dev)
+[![Mis habilidades](https://skillicons.dev/icons?i=java,js,ts,html,css,cs)](https://skillicons.dev)
 
 ### 🔹 Bases de datos
-[![Mis habilidades](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb)](https://skillicons.dev)
+[![Mis habilidades](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)](https://skillicons.dev)
 
 ### 🔹 Otras herramientas
 [![Mis habilidades](https://skillicons.dev/icons?i=gradle,spring,flask,github,git,angular,nodejs,npm,vscode,visualstudio,eclipse&perline=11)](https://skillicons.dev)
-[![Mis habilidades](https://skillicons.dev/icons?i=idea,wordpress,flutter,androidstudio,figma,blender,powershell,vim,bash,linux)](https://skillicons.dev)
+[![Mis habilidades](https://skillicons.dev/icons?i=idea,wordpress,flutter,androidstudio,figma,blender,powershell,vim,bash)](https://skillicons.dev)
 
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/googlecolab/googlecolab-original.svg" width=45> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width=45> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width=45>
 -->
